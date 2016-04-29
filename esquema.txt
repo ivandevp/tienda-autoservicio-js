@@ -1,0 +1,17 @@
+// entrada del usuario
+Número de sucursales
+Número de tiendas
+Número de empleados
+
+// proceso
+Calcular el total de ventas 
+- por tienda
+- por sucursales
+- total (empresa)
+
+
+// salida hacia el usuario
+- total por tienda
+- total por sucursales
+- total (empresa)
+- total por empleado
